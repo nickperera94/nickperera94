@@ -1,16 +1,68 @@
-<h1 align="center">Hi 👋, I'm Nick Perera</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<!-- Cyberpunk README for Nick Perera - Created by ChatGPT -->
 
-- 🔭 I’m currently working on [eCounter](https://ec.slpost.gov.lk/)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Nick+Perera+%F0%9F%9A%80;Web+Developer+%7C+Automation+Engineer;Cyberpunk+Code+Crafter+%F0%9F%94%A5;UiPath+Specialist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Accessing+Neon+Grid..." alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently learning **Robotic Process Automation**
-
-- 📫 How to reach me **nickperera94@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/tjnuTz4R6H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tjnuTz4R6H" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Role-Web%20Developer-ff007c?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🤖%20Tools-UiPath%2C%20SQL%2C%20JS-00ffee?style=for-the-badge&logo=codepen" />
+  <img src="https://img.shields.io/badge/🌌%20Theme-Cyberpunk%20Dev-00f6ff?style=for-the-badge&logo=matrix" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 WHOAMI
+
+```bash
+> Initializing user...
+> Accessing profile node: nick_perera.cyberdev
+
+███████╗███╗   ██╗██╗ ██████╗██╗  ██╗     ██████╗ ███████╗██████╗ ███████╗
+██╔════╝████╗  ██║██║██╔════╝██║ ██╔╝    ██╔═══██╗██╔════╝██╔══██╗██╔════╝
+█████╗  ██╔██╗ ██║██║██║     █████╔╝     ██║   ██║█████╗  ██████╔╝███████╗
+██╔══╝  ██║╚██╗██║██║██║     ██╔═██╗     ██║   ██║██╔══╝  ██╔══██╗╚════██║
+███████╗██║ ╚████║██║╚██████╗██║  ██╗    ╚██████╔╝███████╗██║  ██║███████║
+╚══════╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
+
+> Nick Perera
+> Associate Web Developer based in the digital grid 🕶️
+> Automation enthusiast | Cyber-UI stylist | Full-stack explorer
+> Building backend logic and sleek frontends with futuristic flair.
+
+📁 Backend:       Node.js | SQL | UiPath | Express
+🎨 Frontend:      HTML | CSS | Tailwind | JavaScript | React
+🛠 Tools:         Git | VS Code | Postman | JSON | Bash
+🧩 Folder style:  controller/, controller/data/, bill/, report/, user/
+💡 Specialty:     Automation flows, data pipelines, clean UI, terminal portfolios
+
++ Working on: Terminal-style portfolio UI (web-based shell)
++ Learning: Advanced automation logic with UiPath & JS
++ Tuning: Aesthetic dashboards and animated UIs
+- Avoiding: Boring designs and outdated tech
+
+> ls ~/nick_perera/repos
+
+📂 controller        → Node.js backend logic
+📂 controller/data   → Dynamic SQL handling & retrieval
+📂 bill              → Handles invoice processing logic
+📂 report            → Auto-generates reports from datasets
+📂 user              → Officer-based access control (no users table)
+
+> cd ~/terminal-portfolio
+> ./run.sh
+
+███████╗██████╗ ██╗   ██╗██████╗ ███████╗
+██╔════╝██╔══██╗██║   ██║██╔══██╗██╔════╝
+███████╗██████╔╝██║   ██║██║  ██║█████╗  
+╚════██║██╔═══╝ ██║   ██║██║  ██║██╔══╝  
+███████║██║     ╚██████╔╝██████╔╝███████╗
+╚══════╝╚═╝      ╚═════╝ ╚═════╝ ╚══════╝
+
+> Type 'help' to get started
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nickperera&show_icons=true&theme=tokyonight&hide_border=true" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=nickperera&theme=neon-dark&hide_border=true" /> </p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/nickperera/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Cyber%20Connect-00aaff?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:nick@cyberdevs.com"> <img src="https://img.shields.io/badge/Email-GlitchMail-ff00cc?style=for-the-badge&logo=gmail" /> </a> <a href="https://nickperera.github.io/terminal-portfolio" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Terminal%20View-00ffcc?style=for-the-badge&logo=firefox-browser" /> </a> </p>
+
+<h3 align="center"> <code>💀 SYSTEM ONLINE — PROFILE STATUS: CYBER-ACTIVE</code><br> <code>⚡ KEEP CODING. KEEP GLITCHING. ⚡</code> </h3> ```
