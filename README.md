@@ -1,7 +1,7 @@
 <!-- Cyberpunk README for Nick Perera - Created by ChatGPT -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Nick+Perera+%F0%9F%9A%80;Web+Developer+%7C+Automation+Engineer;Cyberpunk+Code+Crafter+%F0%9F%94%A5;UiPath+Specialist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Accessing+Neon+Grid..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Nick+Perera+%F0%9F%9A%80;Web+Developer+%7C+Automation+Engineer;UiPath+Specialist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Accessing+Neon+Grid..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
